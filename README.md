@@ -50,5 +50,3 @@ Python, pandas, NumPy, scikit-learn (LogisticRegression, DecisionTreeClassifier,
 ├── images
 └── README.md
 ```
-
-Keep `StressLevelDataset.csv` in the same folder as the notebook, then run all the cells. Random state 42 is used for the split and the models, so results should reproduce.
